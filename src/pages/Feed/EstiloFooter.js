@@ -1,6 +1,5 @@
-
 import styled from "styled-components";
-import imageUrl from "../../assets/finalImage.png"; // Corrigi o import da imagem
+import imageUrl from "../assets/finalImage.png"; // Corrigi o import da imagem
 
 export const StyleFooter = styled.footer`
    width: 100vw;
@@ -20,5 +19,4 @@ export const StyleFooter = styled.footer`
         width: 80px;
         
     }
-
 `
